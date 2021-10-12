@@ -1,0 +1,110 @@
+*{
+    margin: 0;
+    padding: 0;
+    color: #fff;
+}
+
+.forms--wrapper{
+    padding: 7rem;
+    margin: 6rem;
+    background-image: linear-gradient(rgb(139, 46, 139), rgb(39,165,214));
+    text-align:center;
+    height: 30rem;
+    width: 30rem;
+    margin-left: 200px;
+}
+.form--container{
+    background-color:rgb(32, 32, 80);
+    margin: auto;
+    width: 25rem;
+    height: 100%;
+    border-radius: auto;
+    font-style:initial;    
+}
+
+.form--headtext {
+    background: rgb(22, 22, 68);
+    height: 10%;
+}
+
+.input--box{
+    width: 90%;
+    height: auto;
+    border-radius: 5px;
+    padding-top: 8px;
+    padding-left: 10px;
+    padding-bottom: 8px;
+    color: #000;
+}
+
+.form--headtext h2{
+    color: rgb(226, 213, 213);
+    width: 100%;
+    display: inline-block;
+    text-align: center;
+    margin-top: 0.4em;    
+}
+
+.firstname{
+    margin: 15px;
+}
+
+.lastname{
+    margin: 15px;
+}
+
+.email{
+    margin-bottom: 15px;
+    margin-left: 14px;
+    margin-right: 14px;
+}
+
+.pass{
+    margin-bottom: 15px;
+    margin-left: 14px;
+    margin-right: 14px;
+}
+
+.textclass{
+    color: rgb(226, 213, 213);
+    font-size: 12px;
+    text-align:initial;
+    margin-left: 30px;
+    margin-top: 25px;
+    
+}
+
+p{
+    color: rgb(199, 182, 182);
+    font-size: 12px;
+
+}
+
+.botton button{
+     color: #fff;
+}
+
+button:hover{
+    color:rgb(61, 135, 165) ;
+}
+
+.botton button{
+     margin-left: 15rem;
+     margin-top: 40px;
+     background-color:rgb(43, 156, 43);
+     width: 80px;
+     height: 30px;
+     border-radius: 8px;
+}
+
+
+.input-checkbox-container{
+    display: flex;
+    align-items: center;
+    margin-bottom: 1rem;
+}
+
+.bottom-checkbox-text{
+    margin-left: 1rem;
+}
+
